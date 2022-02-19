@@ -30,7 +30,7 @@ My own personal awesome list of GR related links, lists, etc
 
 ## Github Repos
 
-* [jerichoBob/awesome_GR](https://github.com/jerichoBob/general_relativity) - just for self-referential integrity (see what I did there? :)
+* [jerichoBob/awesome-general-relativity](https://github.com/jerichoBob/general_relativity) - just for self-referential integrity (see what I did there? :)
 
 ## Cool Sites
 
