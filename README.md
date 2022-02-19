@@ -21,9 +21,12 @@ My own personal awesome list of GR related links, lists, etc
     13. [Tensor Calculus 11: The Metric Tensor and Arc Lengths (flat space)](https://www.youtube.com/watch?v=BbQmTmSzUCI&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=13)
     14. [Tensor Calculus 12: The Metric Tensor in Curved Spaces for Measuring Arc Length](https://www.youtube.com/watch?v=SmjbpIgVKFs&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=14)
     15. [Tensor Calculus 13: Gradient vs "d" operator (exterior derivative/differential)](https://www.youtube.com/watch?v=nJpONHO_X5o&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=15)
+    16. more to come...
   * [Relativity by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hqlw73QjgZcFh4DrkQLSCQa)
+    1. more to come...
 * [scienceClic](https://www.youtube.com/c/ScienceClicEN) -- equisitely beautiful explainers, with a nice background soundtrack
   * [The Maths of General Relativity](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo)
+    1. more to come...
 
 ## Github Repos
 
