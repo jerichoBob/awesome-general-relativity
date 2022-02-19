@@ -4,7 +4,7 @@ My own personal awesome list of GR related links, lists, etc
 
 ## YouTube Explainers
 
-* eigenchris -- one of my favorites
+* [eigenchris](https://www.youtube.com/c/eigenchris/playlists) -- one of my favorites
   * [Tensor Calculus](https://www.youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
     1. [Tensor Calculus 0: Introduction](https://www.youtube.com/watch?v=kGXr1SF3WmA&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
     2. [Tensor Calculus 1: Multi-variable Calculus Review (Updated with correction)](https://www.youtube.com/watch?v=pdtb7vhxl4w&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=2)
@@ -21,8 +21,9 @@ My own personal awesome list of GR related links, lists, etc
     13. [Tensor Calculus 11: The Metric Tensor and Arc Lengths (flat space)](https://www.youtube.com/watch?v=BbQmTmSzUCI&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=13)
     14. [Tensor Calculus 12: The Metric Tensor in Curved Spaces for Measuring Arc Length](https://www.youtube.com/watch?v=SmjbpIgVKFs&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=14)
     15. [Tensor Calculus 13: Gradient vs "d" operator (exterior derivative/differential)](https://www.youtube.com/watch?v=nJpONHO_X5o&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx&index=15)
-* [Relativity by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hqlw73QjgZcFh4DrkQLSCQa)
-* [The Maths of General Relativity](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo)
+  * [Relativity by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hqlw73QjgZcFh4DrkQLSCQa)
+* [scienceClic](https://www.youtube.com/c/ScienceClicEN) -- equisitely beautiful explainers, with a nice background soundtrack
+  * [The Maths of General Relativity](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo)
 
 ## Github Repos
 
