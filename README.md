@@ -4,7 +4,7 @@ My own personal awesome list of GR related links, lists, etc
 
 ## YouTube Explainers
 
-* [eigenchris](https://www.youtube.com/c/eigenchris/playlists) -- one of my favorites
+* [eigenchris](https://www.youtube.com/c/eigenchris/playlists) -- one of my favorites. He takes his time to really explain the concepts (and how to use them), but doesn't pander IMHO
   * [Tensor Calculus](https://www.youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
     1. [Tensor Calculus 0: Introduction](https://www.youtube.com/watch?v=kGXr1SF3WmA)
     2. [Tensor Calculus 1: Multi-variable Calculus Review (Updated with correction)](https://www.youtube.com/watch?v=pdtb7vhxl4w)
@@ -33,8 +33,8 @@ My own personal awesome list of GR related links, lists, etc
     25. [Tensor Calculus 22: Riemann Curvature Tensor Geometric Meaning (Holonomy + Geodesic Deviation)](https://www.youtube.com/watch?v=-Il2FrmJtcQ)
     26. [Tensor Calculus 23: Riemann Curvature Tensor Components and Symmetries](https://www.youtube.com/watch?v=optrC-0HhMI)
     27. [Tensor Calculus 24: Ricci Tensor Geometric Meaning (Sectional Curvature)](https://www.youtube.com/watch?v=ZhDNijOEw0Y)
-    28. [Tensor Calculus 25 - Geometric Meaning Ricci Tensor/Scalar (Volume Form)](https://www.youtube.com/watch?v=oQZTYt_Pxcc)
-    29. [Tensor Calculus 26 - Ricci Tensor/Scalar Properties](https://www.youtube.com/watch?v=hhhYzfozon0
+    28. [Tensor Calculus 25 - Geometric Meaning Ricci Tensor\/Scalar (Volume Form)](https://www.youtube.com/watch?v=oQZTYt_Pxcc)
+    29. [Tensor Calculus 26 - Ricci Tensor/Scalar Properties](https://www.youtube.com/watch?v=hhhYzfozon0)
   * [Relativity by eigenchris](https://www.youtube.com/playlist?list=PLJHszsWbB6hqlw73QjgZcFh4DrkQLSCQa)
     1. [Relativity 101a: Introduction to Galilean Relativity](https://www.youtube.com/watch?v=bEtBncTEc6k)
     2. [Relativity 101b: Introduction to Special Relativity](https://www.youtube.com/watch?v=i_6TOkSMN_o)
