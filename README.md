@@ -128,7 +128,7 @@ My own personal awesome list of GR related links, lists, etc
 
 * [Gravity is not a Force](https://timhutton.github.io/GravityIsNotAForce/index.html) - treating gravity as a distortion in spacetime (grpahically - quite beautiful)
   * a way to envision Einstein's "happiest thought"
-* [slashdot](https://slashdot.org/) - "News for Nerds. Stuff that Matters." - not a GR site; here for sentimentals reasons.
+* [slashdot](https://slashdot.org/) - "News for Nerds. Stuff that Matters." - not a GR site; here for sentimental reasons.
 
 ## Wiki Pages (definitions)
 
