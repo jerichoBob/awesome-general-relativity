@@ -81,7 +81,7 @@ My own personal awesome list of GR related links, lists, etc
     7. [The Maths of General Relativity (7/8) - The Einstein equation](https://www.youtube.com/watch?v=PCujLVSRuMk)
     8. [The Maths of General Relativity (8/8) - Summary and Applications](https://www.youtube.com/watch?v=-UPSiKugRW0)
 * [Physics Unsimplified](https://www.youtube.com/channel/UCsz6GM8EcLkaGIauutfSeJg/playlists)
-  * University lecture notes from NC State professor David Brown, but the really cool part for me is that I might have Dr Brown as a professor over the next couple of years. :)
+  * University lecture notes from NC State professor David Brown - the really cool part for me is that I might have Dr Brown as a professor over the next couple of years. :) - update: I am actually taking his GR class this semester at NCState!! 
   * [Lectures on General Relativity](https://www.youtube.com/playlist?list=PLZuoshe2qaJpSUP8NphzPPXKPo26rdZrZ)
     1. [Gravity is Geometry (General Relativity)](https://www.youtube.com/watch?v=RToLGIBQXuE)
     2. [Two Dimensional Spaces and Line Elements (General Relativity)](https://www.youtube.com/watch?v=mc-Y4CmE7R4)
